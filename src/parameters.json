@@ -1,0 +1,6 @@
+{
+        "ORGANIZATION": "frequants",
+        "SUBACCOUNT": "minimax_test",
+	"MARKETS": ["BTC", "ETH", "USDC"],
+	"DAYS": [-1, 0]
+}
